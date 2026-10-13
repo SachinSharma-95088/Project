@@ -1,5 +1,3 @@
-# Project
-Mini CPU
 
 # Mini CPU — Version 1 Instruction Set
 
