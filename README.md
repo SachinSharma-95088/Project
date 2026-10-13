@@ -1,4 +1,3 @@
-
 # Mini CPU — Version 1 Instruction Set
 
 ## Overview
